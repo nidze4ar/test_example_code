@@ -1,0 +1,14 @@
+h1{
+  background-color: rgb(252, 250, 246);
+  padding-left: 2.5%;
+}
+p{
+  max-width: 800px;
+}
+.articles{
+  width: 95%;
+  margin: 0 auto;
+}
+.content{  
+  background-color: rgb(214, 209, 209);
+}
